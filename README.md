@@ -1,4 +1,4 @@
-**<h1 align="center">Hi 👋, I'm Baibhab Adhikari</h1>
+<h1 align="center">Hi 👋, I'm Baibhab Adhikari</h1>
 <h3 align="center">I'm a second-year Computer Science student at Adamas University in India, driven by a passion for technology and innovation. My journey in the world of programming began with languages like C and Python, where I discovered a knack for problem-solving and algorithmic thinking. 🔍 Currently, I'm exploring the fascinating realms of data science and machine learning, eager to unravel insights from vast datasets and harness the power of predictive analytics. As I delve deeper into this field, I'm excited to apply my analytical skills to real-world challenges and contribute to cutting-edge advancements. 🚗 Beyond the digital realm, I'm intrigued by the intersection of technology and automobiles, constantly seeking ways to leverage tech innovations in automotive engineering.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baibhab-adhikari" alt="baibhab-adhikari" /></a> </p>
@@ -19,4 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhab-adhikari&show_icons=true&theme=dark&locale=en&layout=compact" alt="baibhab-adhikari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baibhab-adhikari&theme=dark" alt="baibhab-adhikari" /></p>
-**
+
