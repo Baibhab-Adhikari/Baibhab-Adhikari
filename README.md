@@ -1,4 +1,4 @@
-**# 💫 About Me:
+## 💫 About Me:
 I'm a second-year Computer Science student at Adamas University in India, driven by a passion for technology and innovation. My journey in the world of programming began with languages like C and Python, where I discovered a knack for problem-solving and algorithmic thinking. 🔍 Currently, I'm exploring the fascinating realms of data science and machine learning, eager to unravel insights from vast datasets and harness the power of predictive analytics. As I delve deeper into this field, I'm excited to apply my analytical skills to real-world challenges and contribute to cutting-edge advancements. 🚗 Beyond the digital realm, I'm intrigued by the intersection of technology and automobiles, constantly seeking ways to leverage tech innovations in automotive engineering.<br>🌱 I’m currently learning C++, Data Structures and Algorithms, Flask(python)<br>⚡ Fun fact I love anything with wheels and an engine.
 
 
